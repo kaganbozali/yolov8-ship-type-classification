@@ -8,6 +8,3 @@ The ship data have been gathered using open-source libraries while adjusting par
 
 
 
-About Train Files:
-
-Train datasets compressed in order to upload it.
